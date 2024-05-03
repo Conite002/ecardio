@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "983425994049",
+    "project_id": "ecardio-v2-3bb56",
+    "storage_bucket": "ecardio-v2-3bb56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983425994049:android:bb845d035dda42ead565c0",
+        "android_client_info": {
+          "package_name": "com.example.ecardio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQQwHFxBtdc233gFANIAkTEAFfFNhJLcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
